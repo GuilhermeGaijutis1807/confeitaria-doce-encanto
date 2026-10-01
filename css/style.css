@@ -46,6 +46,39 @@ strong {
 
 .marca {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 24px;
+    font-size: 34px;
     color: #FFF4EE;
+}
+
+.sobre,
+.produtos,
+.producao {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.sobre {
+    background-color: #FFF4EE;
+}
+
+.produtos {
+    background-color: #F4A7B9;
+}
+
+.producao {
+    background-color: #8ED1B2;
+}
+
+.card {
+    background-color: #FFF4EE;
+    padding: 20px;
+    margin: 24px auto;
+    max-width: 360px;
+}
+
+#rodape {
+    background-color: #5D4037;
+    color: #FFF4EE;
+    text-align: center;
+    padding: 24px 20px;
 }
